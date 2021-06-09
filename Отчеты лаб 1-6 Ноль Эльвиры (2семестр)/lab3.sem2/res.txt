@@ -1,0 +1,1050 @@
+----------------------
+Test 1 (N = 50000):
+
+Try 1 (sorted):
+Search: 
+0.137119
+Insert: 
+0.157667
+Try 2 (sorted):
+Search: 
+0.142214
+Insert: 
+0.165887
+Try 3 (sorted):
+Search: 
+0.129744
+Insert: 
+0.156976
+Try 4 (sorted):
+Search: 
+0.134811
+Insert: 
+0.158386
+Try 5 (sorted):
+Search: 
+0.148487
+Insert: 
+0.167029
+Try 6:
+Search: 
+0.073488
+Insert: 
+0.11168
+Try 7:
+Search: 
+0.067199
+Insert: 
+0.121804
+Try 8:
+Search: 
+0.085273
+Insert: 
+0.112726
+Try 9:
+Search: 
+0.066731
+Insert: 
+0.127083
+Try 10:
+Search: 
+0.159386
+Insert: 
+0.139014
+Try 11:
+Search: 
+0.065194
+Insert: 
+0.138042
+Try 12:
+Search: 
+0.064425
+Insert: 
+0.107765
+Try 13:
+Search: 
+0.063921
+Insert: 
+0.145892
+Try 14:
+Search: 
+0.098296
+Insert: 
+0.111662
+Try 15:
+Search: 
+0.074449
+Insert: 
+0.104586
+Try 16:
+Search: 
+0.073031
+Insert: 
+0.106809
+Try 17:
+Search: 
+0.063829
+Insert: 
+0.112236
+Try 18:
+Search: 
+0.06324
+Insert: 
+0.120667
+Try 19:
+Search: 
+0.063321
+Insert: 
+0.115481
+Try 20:
+Search: 
+0.067166
+Insert: 
+0.110296
+----------------------
+
+----------------------
+Test 2 (N = 100000):
+
+Try 1 (sorted):
+Search: 
+0.201784
+Insert: 
+0.241613
+Try 2 (sorted):
+Search: 
+0.194093
+Insert: 
+0.2228
+Try 3 (sorted):
+Search: 
+0.179802
+Insert: 
+0.195722
+Try 4 (sorted):
+Search: 
+0.192975
+Insert: 
+0.198704
+Try 5 (sorted):
+Search: 
+0.181252
+Insert: 
+0.21062
+Try 6:
+Search: 
+0.085185
+Insert: 
+0.144007
+Try 7:
+Search: 
+0.078825
+Insert: 
+0.136587
+Try 8:
+Search: 
+0.084469
+Insert: 
+0.159892
+Try 9:
+Search: 
+0.100435
+Insert: 
+0.148075
+Try 10:
+Search: 
+0.109579
+Insert: 
+0.169036
+Try 11:
+Search: 
+0.08533
+Insert: 
+0.133269
+Try 12:
+Search: 
+0.08686
+Insert: 
+0.153566
+Try 13:
+Search: 
+0.099683
+Insert: 
+0.148966
+Try 14:
+Search: 
+0.081776
+Insert: 
+0.156629
+Try 15:
+Search: 
+0.081381
+Insert: 
+0.137907
+Try 16:
+Search: 
+0.09502
+Insert: 
+0.148171
+Try 17:
+Search: 
+0.090017
+Insert: 
+0.137785
+Try 18:
+Search: 
+0.080689
+Insert: 
+0.144898
+Try 19:
+Search: 
+0.080852
+Insert: 
+0.142972
+Try 20:
+Search: 
+0.085571
+Insert: 
+0.152327
+----------------------
+
+----------------------
+Test 3 (N = 150000):
+
+Try 1 (sorted):
+Search: 
+0.207082
+Insert: 
+0.227074
+Try 2 (sorted):
+Search: 
+0.209236
+Insert: 
+0.247988
+Try 3 (sorted):
+Search: 
+0.201155
+Insert: 
+0.240845
+Try 4 (sorted):
+Search: 
+0.204485
+Insert: 
+0.249826
+Try 5 (sorted):
+Search: 
+0.194736
+Insert: 
+0.249389
+Try 6:
+Search: 
+0.1257
+Insert: 
+0.166604
+Try 7:
+Search: 
+0.107131
+Insert: 
+0.169128
+Try 8:
+Search: 
+0.094673
+Insert: 
+0.161428
+Try 9:
+Search: 
+0.100481
+Insert: 
+0.167623
+Try 10:
+Search: 
+0.098488
+Insert: 
+0.166006
+Try 11:
+Search: 
+0.118807
+Insert: 
+0.216644
+Try 12:
+Search: 
+0.098715
+Insert: 
+0.184476
+Try 13:
+Search: 
+0.096958
+Insert: 
+0.14838
+Try 14:
+Search: 
+0.092423
+Insert: 
+0.154686
+Try 15:
+Search: 
+0.100082
+Insert: 
+0.157816
+Try 16:
+Search: 
+0.104408
+Insert: 
+0.157146
+Try 17:
+Search: 
+0.099214
+Insert: 
+0.161854
+Try 18:
+Search: 
+0.110035
+Insert: 
+0.151118
+Try 19:
+Search: 
+0.098361
+Insert: 
+0.160283
+Try 20:
+Search: 
+0.094528
+Insert: 
+0.169521
+----------------------
+
+----------------------
+Test 4 (N = 200000):
+
+Try 1 (sorted):
+Search: 
+0.213983
+Insert: 
+0.266274
+Try 2 (sorted):
+Search: 
+0.235888
+Insert: 
+0.248333
+Try 3 (sorted):
+Search: 
+0.221399
+Insert: 
+0.261524
+Try 4 (sorted):
+Search: 
+0.201821
+Insert: 
+0.237481
+Try 5 (sorted):
+Search: 
+0.218558
+Insert: 
+0.240645
+Try 6:
+Search: 
+0.120571
+Insert: 
+0.192368
+Try 7:
+Search: 
+0.155648
+Insert: 
+0.25764
+Try 8:
+Search: 
+0.114586
+Insert: 
+0.157736
+Try 9:
+Search: 
+0.09876
+Insert: 
+0.166074
+Try 10:
+Search: 
+0.116105
+Insert: 
+0.163124
+Try 11:
+Search: 
+0.106459
+Insert: 
+0.158425
+Try 12:
+Search: 
+0.103902
+Insert: 
+0.177151
+Try 13:
+Search: 
+0.126203
+Insert: 
+0.205821
+Try 14:
+Search: 
+0.113977
+Insert: 
+0.164976
+Try 15:
+Search: 
+0.100421
+Insert: 
+0.163735
+Try 16:
+Search: 
+0.106396
+Insert: 
+0.166743
+Try 17:
+Search: 
+0.106646
+Insert: 
+0.159542
+Try 18:
+Search: 
+0.100432
+Insert: 
+0.179491
+Try 19:
+Search: 
+0.103935
+Insert: 
+0.178865
+Try 20:
+Search: 
+0.13362
+Insert: 
+0.19036
+----------------------
+
+----------------------
+Test 5 (N = 250000):
+
+Try 1 (sorted):
+Search: 
+0.233701
+Insert: 
+0.264775
+Try 2 (sorted):
+Search: 
+0.229346
+Insert: 
+0.26661
+Try 3 (sorted):
+Search: 
+0.232723
+Insert: 
+0.270294
+Try 4 (sorted):
+Search: 
+0.231103
+Insert: 
+0.273093
+Try 5 (sorted):
+Search: 
+0.23377
+Insert: 
+0.274768
+Try 6:
+Search: 
+0.10538
+Insert: 
+0.184359
+Try 7:
+Search: 
+0.102033
+Insert: 
+0.181321
+Try 8:
+Search: 
+0.108186
+Insert: 
+0.180801
+Try 9:
+Search: 
+0.108421
+Insert: 
+0.193529
+Try 10:
+Search: 
+0.127889
+Insert: 
+0.182395
+Try 11:
+Search: 
+0.103954
+Insert: 
+0.166156
+Try 12:
+Search: 
+0.115882
+Insert: 
+0.188177
+Try 13:
+Search: 
+0.122749
+Insert: 
+0.186741
+Try 14:
+Search: 
+0.123683
+Insert: 
+0.188734
+Try 15:
+Search: 
+0.113064
+Insert: 
+0.175433
+Try 16:
+Search: 
+0.121572
+Insert: 
+0.194633
+Try 17:
+Search: 
+0.106517
+Insert: 
+0.182983
+Try 18:
+Search: 
+0.106411
+Insert: 
+0.182996
+Try 19:
+Search: 
+0.103497
+Insert: 
+0.179053
+Try 20:
+Search: 
+0.149809
+Insert: 
+0.256847
+----------------------
+
+----------------------
+Test 6 (N = 300000):
+
+Try 1 (sorted):
+Search: 
+0.23354
+Insert: 
+0.326902
+Try 2 (sorted):
+Search: 
+0.270831
+Insert: 
+0.282109
+Try 3 (sorted):
+Search: 
+0.247898
+Insert: 
+0.325012
+Try 4 (sorted):
+Search: 
+0.256063
+Insert: 
+0.286259
+Try 5 (sorted):
+Search: 
+0.247141
+Insert: 
+0.297415
+Try 6:
+Search: 
+0.142358
+Insert: 
+0.231089
+Try 7:
+Search: 
+0.127023
+Insert: 
+0.196107
+Try 8:
+Search: 
+0.119841
+Insert: 
+0.172323
+Try 9:
+Search: 
+0.118508
+Insert: 
+0.185354
+Try 10:
+Search: 
+0.122209
+Insert: 
+0.191148
+Try 11:
+Search: 
+0.123379
+Insert: 
+0.178199
+Try 12:
+Search: 
+0.126815
+Insert: 
+0.213216
+Try 13:
+Search: 
+0.115578
+Insert: 
+0.1743
+Try 14:
+Search: 
+0.125103
+Insert: 
+0.188444
+Try 15:
+Search: 
+0.117701
+Insert: 
+0.184229
+Try 16:
+Search: 
+0.120088
+Insert: 
+0.178578
+Try 17:
+Search: 
+0.129528
+Insert: 
+0.204509
+Try 18:
+Search: 
+0.113256
+Insert: 
+0.195592
+Try 19:
+Search: 
+0.126005
+Insert: 
+0.183974
+Try 20:
+Search: 
+0.119346
+Insert: 
+0.180906
+----------------------
+
+----------------------
+Test 7 (N = 350000):
+
+Try 1 (sorted):
+Search: 
+0.244964
+Insert: 
+0.303981
+Try 2 (sorted):
+Search: 
+0.242849
+Insert: 
+0.301044
+Try 3 (sorted):
+Search: 
+0.250474
+Insert: 
+0.283452
+Try 4 (sorted):
+Search: 
+0.245997
+Insert: 
+0.29998
+Try 5 (sorted):
+Search: 
+0.245293
+Insert: 
+0.291575
+Try 6:
+Search: 
+0.131013
+Insert: 
+0.220199
+Try 7:
+Search: 
+0.121193
+Insert: 
+0.207505
+Try 8:
+Search: 
+0.137289
+Insert: 
+0.227509
+Try 9:
+Search: 
+0.125624
+Insert: 
+0.191179
+Try 10:
+Search: 
+0.12964
+Insert: 
+0.21414
+Try 11:
+Search: 
+0.125444
+Insert: 
+0.190165
+Try 12:
+Search: 
+0.118372
+Insert: 
+0.1985
+Try 13:
+Search: 
+0.121133
+Insert: 
+0.20391
+Try 14:
+Search: 
+0.132323
+Insert: 
+0.190954
+Try 15:
+Search: 
+0.122669
+Insert: 
+0.197808
+Try 16:
+Search: 
+0.131528
+Insert: 
+0.221159
+Try 17:
+Search: 
+0.124081
+Insert: 
+0.211657
+Try 18:
+Search: 
+0.131649
+Insert: 
+0.210934
+Try 19:
+Search: 
+0.1164
+Insert: 
+0.18995
+Try 20:
+Search: 
+0.125392
+Insert: 
+0.186745
+----------------------
+
+----------------------
+Test 8 (N = 400000):
+
+Try 1 (sorted):
+Search: 
+0.273497
+Insert: 
+0.314032
+Try 2 (sorted):
+Search: 
+0.24293
+Insert: 
+0.276283
+Try 3 (sorted):
+Search: 
+0.250293
+Insert: 
+0.298933
+Try 4 (sorted):
+Search: 
+0.249831
+Insert: 
+0.340502
+Try 5 (sorted):
+Search: 
+0.255262
+Insert: 
+0.314331
+Try 6:
+Search: 
+0.135339
+Insert: 
+0.189977
+Try 7:
+Search: 
+0.118597
+Insert: 
+0.199363
+Try 8:
+Search: 
+0.125359
+Insert: 
+0.199137
+Try 9:
+Search: 
+0.138301
+Insert: 
+0.201913
+Try 10:
+Search: 
+0.127589
+Insert: 
+0.220352
+Try 11:
+Search: 
+0.125378
+Insert: 
+0.200598
+Try 12:
+Search: 
+0.132137
+Insert: 
+0.206665
+Try 13:
+Search: 
+0.1344
+Insert: 
+0.193064
+Try 14:
+Search: 
+0.117099
+Insert: 
+0.204244
+Try 15:
+Search: 
+0.14988
+Insert: 
+0.220834
+Try 16:
+Search: 
+0.135279
+Insert: 
+0.206728
+Try 17:
+Search: 
+0.125398
+Insert: 
+0.203178
+Try 18:
+Search: 
+0.120478
+Insert: 
+0.188954
+Try 19:
+Search: 
+0.127854
+Insert: 
+0.218808
+Try 20:
+Search: 
+0.1195
+Insert: 
+0.206957
+----------------------
+
+----------------------
+Test 9 (N = 450000):
+
+Try 1 (sorted):
+Search: 
+0.247296
+Insert: 
+0.329361
+Try 2 (sorted):
+Search: 
+0.239333
+Insert: 
+0.319196
+Try 3 (sorted):
+Search: 
+0.239315
+Insert: 
+0.319496
+Try 4 (sorted):
+Search: 
+0.269335
+Insert: 
+0.316081
+Try 5 (sorted):
+Search: 
+0.2458
+Insert: 
+0.301109
+Try 6:
+Search: 
+0.131144
+Insert: 
+0.209341
+Try 7:
+Search: 
+0.135933
+Insert: 
+0.218735
+Try 8:
+Search: 
+0.165158
+Insert: 
+0.229741
+Try 9:
+Search: 
+0.124022
+Insert: 
+0.19672
+Try 10:
+Search: 
+0.125441
+Insert: 
+0.206229
+Try 11:
+Search: 
+0.124804
+Insert: 
+0.20642
+Try 12:
+Search: 
+0.133381
+Insert: 
+0.202291
+Try 13:
+Search: 
+0.138364
+Insert: 
+0.203088
+Try 14:
+Search: 
+0.136243
+Insert: 
+0.213743
+Try 15:
+Search: 
+0.150399
+Insert: 
+0.208847
+Try 16:
+Search: 
+0.123337
+Insert: 
+0.211939
+Try 17:
+Search: 
+0.134068
+Insert: 
+0.234607
+Try 18:
+Search: 
+0.130213
+Insert: 
+0.221897
+Try 19:
+Search: 
+0.132408
+Insert: 
+0.20472
+Try 20:
+Search: 
+0.131392
+Insert: 
+0.212193
+----------------------
+
+----------------------
+Test 10 (N = 500000):
+
+Try 1 (sorted):
+Search: 
+0.258212
+Insert: 
+0.305316
+Try 2 (sorted):
+Search: 
+0.270447
+Insert: 
+0.307015
+Try 3 (sorted):
+Search: 
+0.295557
+Insert: 
+0.318449
+Try 4 (sorted):
+Search: 
+0.266465
+Insert: 
+0.306908
+Try 5 (sorted):
+Search: 
+0.255301
+Insert: 
+0.324598
+Try 6:
+Search: 
+0.140206
+Insert: 
+0.205765
+Try 7:
+Search: 
+0.138748
+Insert: 
+0.216927
+Try 8:
+Search: 
+0.120389
+Insert: 
+0.192884
+Try 9:
+Search: 
+0.150318
+Insert: 
+0.239429
+Try 10:
+Search: 
+0.141976
+Insert: 
+0.224977
+Try 11:
+Search: 
+0.147631
+Insert: 
+0.214094
+Try 12:
+Search: 
+0.150495
+Insert: 
+0.21874
+Try 13:
+Search: 
+0.128417
+Insert: 
+0.21539
+Try 14:
+Search: 
+0.129826
+Insert: 
+0.222676
+Try 15:
+Search: 
+0.146075
+Insert: 
+0.235945
+Try 16:
+Search: 
+0.145152
+Insert: 
+0.215973
+Try 17:
+Search: 
+0.14487
+Insert: 
+0.22903
+Try 18:
+Search: 
+0.135345
+Insert: 
+0.211152
+Try 19:
+Search: 
+0.148412
+Insert: 
+0.239628
+Try 20:
+Search: 
+0.132262
+Insert: 
+0.226604
+----------------------
+
